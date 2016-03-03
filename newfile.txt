@@ -3,3 +3,8 @@ this is a new file in newfile
 
 
 add line to newfile.txt, in newfile branch.
+
+
+hello, redtea. 
+
+merge problem fixed.
